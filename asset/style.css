@@ -1,0 +1,82 @@
+
+
+.login-form  input[type="text"],input[type="password"]{
+
+    margin-bottom: 0px;;
+
+}
+.login-form img{
+
+    width: auto;
+    height: auto;
+    max-width:none;
+
+}
+.wraper{
+    width: 920px;
+    margin: 20px;
+    display: table;
+
+}
+.MenuBar  li {
+
+    line-height: 1.2;
+}
+.control-group p{
+    display: block;
+    font-size: 14px;
+    height: 20px;
+    line-height: 20px;
+    margin-top: 10px;
+    width: 378px;
+    zoom: 1;
+
+}
+.control-group.error p {
+    color:  #b94a48;
+    padding-left: 5px;
+}
+.control-group.success  p{
+
+    color: #468847;
+    padding-left: 5px;
+}
+.typelist{
+
+    margin: 20px auto;
+}
+
+.typelist th,td{
+
+    text-align: center;  
+}
+.add-section{
+
+
+}
+.showpdf{
+    width: 100%;
+    min-height:600px; 
+
+
+}
+form.edited{
+    display: block;
+    margin: 10px auto;
+    width: 50%;
+    text-align: center;
+
+
+
+}
+
+.ui-timepicker-div .ui-widget-header { margin-bottom: 8px; }
+.ui-timepicker-div dl { text-align: left; }
+.ui-timepicker-div dl dt { height: 25px; margin-bottom: -25px; }
+.ui-timepicker-div dl dd { margin: 0 10px 10px 65px; }
+.ui-timepicker-div td { font-size: 90%; }
+.ui-tpicker-grid-label { background: none; border: none; margin: 0; padding: 0; }
+
+.ui-timepicker-rtl{ direction: rtl; }
+.ui-timepicker-rtl dl { text-align: right; }
+.ui-timepicker-rtl dl dd { margin: 0 65px 10px 10px; }
